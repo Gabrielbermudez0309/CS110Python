@@ -1,7 +1,7 @@
 def main():
     print("Hello World")
 
-    print ("wassup")
+# This is Lab 2
 
     if __name__ == '__main__':
         main()
